@@ -1,0 +1,7 @@
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\bin\Release\IPSW to iBoot.exe.config
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\bin\Release\IPSW to iBoot.exe
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\bin\Release\IPSW to iBoot.pdb
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\obj\Release\IPSW to iBoot.csproj.AssemblyReference.cache
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\obj\Release\IPSW to iBoot.csproj.CoreCompileInputs.cache
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\obj\Release\IPSW to iBoot.exe
+C:\Users\Sophada\source\repos\IPSW to iBoot\IPSW to iBoot\obj\Release\IPSW to iBoot.pdb
